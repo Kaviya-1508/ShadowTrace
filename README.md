@@ -4,6 +4,12 @@ An OSINT intelligence platform for investigating usernames, domains, and IP addr
 
 ---
 
+## 🔗 Live Demo
+
+**[shadow-trace-nexus.vercel.app](https://shadow-trace-nexus.vercel.app)**
+
+---
+
 ## Stack
 
 | Layer | Tech |
